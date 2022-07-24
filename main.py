@@ -4,7 +4,7 @@ from oauth2client.tools import argparser
 import webview
 import time
 
-DEVELOPER_KEY = "AIzaSyDCFteWNIVFwSwOp0Mdz410jdGcoaSqcUM" #유튜브 API 키 값
+DEVELOPER_KEY = "key" #유튜브 API 키 값
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
